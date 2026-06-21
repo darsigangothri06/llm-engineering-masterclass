@@ -20,10 +20,22 @@ What we covered:
 
 ### Session 4 - Python for AI Engineering
 
-Coming after Session 4.
+What we covered:
+- Python basics: variables, data types, lists, dictionaries, functions, error handling
+- ChatML format: how AI conversations are structured
+- Ollama: running AI models locally, localhost, ports, the API
+- Calling an LLM from Python using `ask_llm()`
+- Building a chatbot with memory (full conversation history)
+
+**Notes:** [session-4-notes.md](./session-4/session-4-notes.md)
+
+**Whiteboard:** [session-4-canvas.png](./session-4/session-4-canvas.png)
+
+**Notebook:** [session-4-demo.ipynb](./session-4/session-4-demo.ipynb)
 
 ## Files
 
 | Folder | Description |
 |--------|-------------|
 | [session-3/](./session-3/) | Session 3 notes, setup guide, and notebook |
+| [session-4/](./session-4/) | Session 4 notes, notebook, and whiteboard |

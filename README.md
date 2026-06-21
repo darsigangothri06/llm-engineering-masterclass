@@ -52,6 +52,16 @@ Covers the complete AI/ML/DL/LLM hierarchy with depth, Transformer intuition (to
 
 **Homework:** [Setup Guide](./week-1/session-3/setup-guide.md) - Install Python, Ollama, and your code editor before Session 4.
 
+### Session 4 (Sunday) - Python for AI Engineering
+
+Python fundamentals for AI work: variables, data types, lists, dictionaries, functions, error handling. Then connecting Python to Ollama using the ChatML format, and building a simple chatbot with memory.
+
+**Session Outcome:** By the end of this session, you can write Python functions, understand how LLMs receive conversations (ChatML), and have built a working chatbot that remembers context.
+
+**Session Notes:** [session-4-notes.md](./week-1/session-4/session-4-notes.md)
+
+**Homework:** Practice Python basics and get the chatbot running with a custom system prompt.
+
 ---
 
 ## Prerequisites
