@@ -62,6 +62,22 @@ Python fundamentals for AI work: variables, data types, lists, dictionaries, fun
 
 **Homework:** Practice Python basics and get the chatbot running with a custom system prompt.
 
+## Week 2 - Advanced Python for AI + Neural Network Foundations
+
+Materials: [week-2/](./week-2/)
+
+### Session 5 (Saturday) - Chatbot, Streaming, Pydantic, Async + Neural Networks
+
+Completes Module 2.1 with all remaining Python tools for AI engineering: chatbot with memory, streaming, Pydantic validation, async/await, file I/O, and virtual environments. Then introduces neural network fundamentals (neurons, layers, training loop) and the Transformer self-attention mechanism.
+
+**Session Outcome:** By the end of this session, you can stream AI responses, validate outputs with Pydantic, run parallel AI calls, and understand how neural networks learn.
+
+**Teaching Notes:** [session-5-teaching-notes.md](./week-2/session-5/session-5-teaching-notes.md)
+
+**Notebook:** [session-5-notebook.ipynb](./week-2/session-5/session-5-notebook.ipynb)
+
+**Homework:** Build a streaming chatbot with a creative personality, validate AI data with Pydantic, optionally set up a venv locally.
+
 ---
 
 ## Prerequisites
