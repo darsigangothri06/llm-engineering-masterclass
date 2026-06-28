@@ -1,4 +1,4 @@
-# Week 2 - Advanced Python for AI + Neural Network Foundations
+# Week 2 - Advanced Python for AI + Deep Learning Foundations
 
 ## Sessions
 
@@ -22,18 +22,25 @@ What we covered:
 
 **Notebook:** [session-5-notebook.ipynb](./session-5/session-5-notebook.ipynb)
 
-### Session 6 - Transformer Deep Dive + HuggingFace (upcoming)
+### Session 6 - PyTorch & Transformers
 
-Topics:
-- Full Transformer architecture
-- Self-attention mechanics (Q, K, V)
-- Multi-head attention
-- Positional encoding
-- Tokenizers and embeddings
-- HuggingFace Transformers library
+What we covered:
+- PyTorch fundamentals (tensors, tensor operations, GPU + autograd)
+- nn.Module (building neural networks: __init__ + forward)
+- Training loop in code (y=2x, 500 epochs, loss convergence)
+- Full Transformer architecture (multi-head attention, positional encoding, decoder-only)
+
+**Teaching Notes:** [session-6-teaching-notes.md](./session-6/session-6-teaching-notes.md)
+
+**Whiteboard:**
+
+![Session 6 Whiteboard](./session-6/whiteboard.png)
+
+**Notebook:** [session-6-notebook.ipynb](./session-6/session-6-notebook.ipynb)
 
 ## Files
 
 | Folder | Description |
 |--------|-------------|
 | [session-5/](./session-5/) | Session 5 notes, notebook, and whiteboard |
+| [session-6/](./session-6/) | Session 6 notes, notebook, and whiteboard |
