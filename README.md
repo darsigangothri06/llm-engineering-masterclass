@@ -13,31 +13,6 @@ A comprehensive, hands-on masterclass on LLM Engineering - from foundations to p
 | Duration | 9 weekends |
 | Modules | 9 |
 
-## Session Breakdown
-
-| Session | Day | Module | Topics |
-|---------|-----|--------|--------|
-| 1 | Sat, 7 Jun | Induction | GrowAI intro, mentor intro, career overview, roadmap walkthrough, setup homework |
-| 2 | Fri, 13 Jun | Induction | Module walkthrough, tools overview, Q&A |
-| 3 | Sat | Module 1 | AI/ML/DL/LLM hierarchy, Transformer intuition, Open-source LLM landscape, GenAI lifecycle, HuggingFace orientation, Environment setup, First model with Ollama |
-| 4 | Sun | Module 2.1 | Python for AI: data structures (ChatML), functions + type hints, file I/O + JSON/YAML, error handling, Pydantic, async/await, virtual environments, project structure |
-| 5 | Sat | Module 2.2 | Neural network intuition, PyTorch fundamentals, Training loop, Transformer architecture, Tokenizers & embeddings, HuggingFace Transformers library |
-| 6 | Sun | Module 3 | Open-source LLM family tree, Model sizes & quantization (GGUF, AWQ), Ollama deep dive, vLLM for production, Cost economics |
-| 7 | Sat | Module 4.1 | Prompt anatomy, Zero-shot/few-shot/CoT/ReAct, JSON mode & structured outputs, Pydantic + Instructor, Function calling & tool use |
-| 8 | Sun | Module 4.2 + 4.3 | LangChain (LCEL, chains, memory), LlamaIndex (documents, nodes, indexes, query engines), LlamaParse, Capstone: multi-tool agent |
-| 9 | Sat | Module 5 (Part 1) | RAG architecture, Embedding models, Chunking strategies, Vector databases (Milvus, ChromaDB), Index types (IVF, HNSW) |
-| 10 | Sun | Module 5 (Part 2) | Hybrid search (BM25 + vector + RRF), Reranking (cross-encoders, ColBERT), Metadata filtering, Multilingual RAG, Capstone: production RAG |
-| 11 | Sat | Module 6 (Part 1) | Why basic RAG fails, Multi-hop RAG, Agentic RAG (Self-RAG, CRAG), RAG evaluation |
-| 12 | Sun | Module 6 (Part 2) | Knowledge graphs (Neo4j), KG construction with LLMs, Cypher query generation, GraphRAG architecture, Capstone: GraphRAG |
-| 13 | Sat | Module 7 (Part 1) | Agent fundamentals (ReAct, planning, tools), LangGraph (state, nodes, edges, routing), Human-in-the-loop, Memory systems |
-| 14 | Sun | Module 7 (Part 2) | Multi-agent patterns (supervisor, peer-to-peer), AutoGen, Model Context Protocol (MCP), Build custom MCP server, Capstone: multi-agent system |
-| 15 | Sat | Module 8 (Part 1) | Fine-tune vs RAG vs prompting decision tree, LoRA/QLoRA, Unsloth, Training data preparation, Synthetic data generation |
-| 16 | Sun | Module 8 (Part 2) | Live fine-tuning (Unsloth + Colab), LoRA config, Quantization (GGUF/AWQ), Deploy to Ollama, DPO intro |
-| 17 | Sat | Module 9 (Part 1) | FastAPI for LLM APIs (async, streaming/SSE), Docker & Docker Compose, vLLM at scale, Cost optimization |
-| 18 | Sun | Module 9 (Part 2) | LLM Evals (DeepEval, LLM-as-judge), Production observability, Complete architecture review, Capstone assembly |
-| 19 | Sat | Spare 1 | Extended capstone / career session / overflow / deep-dive review |
-| 20 | Sun | Spare 2 | Student presentations / mock interviews / course close + certificates |
-
 ## Week 1 - Foundations + Python for AI
 
 Materials: [week-1/](./week-1/)
@@ -77,6 +52,18 @@ Completes Module 2.1 with all remaining Python tools for AI engineering: chatbot
 **Notebook:** [session-5-notebook.ipynb](./week-2/session-5/session-5-notebook.ipynb)
 
 **Homework:** Build a streaming chatbot with a creative personality, validate AI data with Pydantic, optionally set up a venv locally.
+
+### Session 6 (Sunday) - PyTorch & Transformers
+
+PyTorch fundamentals (tensors, nn.Module), writing a training loop from scratch and watching the model learn y=2x, and the full Transformer architecture (multi-head attention, positional encoding, decoder-only).
+
+**Session Outcome:** By the end of this session, you can write a training loop in PyTorch and understand the full Transformer architecture behind every LLM.
+
+**Teaching Notes:** [session-6-teaching-notes.md](./week-2/session-6/session-6-teaching-notes.md)
+
+**Notebook:** [session-6-notebook.ipynb](./week-2/session-6/session-6-notebook.ipynb)
+
+**Homework:** Run the training loop notebook. Change the learning rate to 0.1 and to 0.001. Compare.
 
 ---
 
