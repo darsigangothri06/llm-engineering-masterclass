@@ -2,6 +2,23 @@
 
 A comprehensive, hands-on masterclass on LLM Engineering - from foundations to production deployment. Conducted by [GrowAI](https://growai.in).
 
+---
+
+<p align="center">
+  <b>Taught by <a href="https://gangothridarsi.vercel.app">Gangothri Darsi</a></b><br>
+  Software Engineer | AI/LLM Builder | Instructor
+</p>
+
+<p align="center">
+  <a href="https://topmate.io/darsigangothri06"><img src="https://img.shields.io/badge/Book%20a%201:1%20Session-7C3AED?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJhNSA1IDAgMDE1IDV2MWE1IDUgMCAwMS0xMCAwVjdhNSA1IDAgMDE1LTV6bS03IDE3YTcgNyAwIDAxMTQgMHYxSDV2LTF6Ii8+PC9zdmc+&logoColor=white" /></a>
+  <a href="https://github.com/darsigangothri06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/darsigangothri06"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Need help with GenAI, LLMs, placements, or projects? <a href="https://topmate.io/darsigangothri06">Book a 1:1 session with me</a></i></p>
+
+---
+
 ## Course Overview
 
 | Detail | Value |
